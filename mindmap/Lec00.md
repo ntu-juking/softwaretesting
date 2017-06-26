@@ -1,8 +1,8 @@
 ## Introduction
 
-### 1. Self-Introduce
+### 1. Who am I ？
 
-### 2. Introduce Our Course
+### 2. Introduce our course
 
 ### 3. Reference
 
