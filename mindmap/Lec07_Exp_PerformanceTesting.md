@@ -2,7 +2,7 @@
 
 ### 1. Usage of Selenium IDE   
 
-### 2. Web application
+### 2. Web applicationes
 
 ### 3. Case Studies on MoocTest 
 
