@@ -1,6 +1,6 @@
 ## Feature Testing for Web Application
 
-### 1. Usage of Selinume IDE   
+### 1. Usage of Selenium IDE   
 
 ### 2. Web application
 
