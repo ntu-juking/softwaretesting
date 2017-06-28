@@ -1,4 +1,4 @@
-## Exp : Feature Testing for Web Application
+## Exp : Feature Testing for Web Application (Local)
 
 ### 1. Usage of Selenium IDE   
 
