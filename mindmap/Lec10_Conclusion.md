@@ -1,9 +1,9 @@
-## Conclusion
-### 1. what we talk about?
+## Conclusions
+### 1. what does we talk about?
 
 ### 2. The Research Questions?
 
-### 3. Chalenges in Practice?
+### 3. Challenges in Practice?
 
 ### 4. What did you get?
 
