@@ -1,6 +1,6 @@
 ## Introduction
 
-### 1. Who am I ？(Romote)
+### 1. Who am I ？(LOCAL)
 
 ### 2. Introduce our course
 
