@@ -1,6 +1,6 @@
 ## Introduction
 
-### 1. Who am I ？(LOCAL)
+### 1. Who am I ？(Local)
 
 ### 2. Introduce our course
 
