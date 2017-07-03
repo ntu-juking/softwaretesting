@@ -2,7 +2,7 @@
 
 ### 1. Test Case Spec   
 
-### 2. Test Oracal
+### 2. Test Oracle
 
 ### 3. Bug Report
 
