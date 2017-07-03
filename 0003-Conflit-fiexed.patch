@@ -1,0 +1,24 @@
+From 9d254e3bd49de684561f38703130f08057045f7d Mon Sep 17 00:00:00 2001
+From: Xiaolin Ju <Ju.xl@ntu.edu.cn>
+Date: Fri, 30 Jun 2017 12:24:02 +0800
+Subject: [PATCH 3/6] Conflit fiexed
+
+---
+ Fixed-B/Test_Preface.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Fixed-B/Test_Preface.md b/Fixed-B/Test_Preface.md
+index 0f01957..138e1ed 100644
+--- a/Fixed-B/Test_Preface.md
++++ b/Fixed-B/Test_Preface.md
+@@ -1,6 +1,6 @@
+ ## Introduction
+ 
+-### 1. Who am I ？(LOCAL)
++### 1. Who am I ？(Local)
+ 
+ ### 2. Introduce our course
+ 
+-- 
+2.11.0 (Apple Git-81)
+

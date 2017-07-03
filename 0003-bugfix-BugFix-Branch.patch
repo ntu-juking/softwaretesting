@@ -1,0 +1,21 @@
+From 58273da31f6c9bba0c9c3b17db61e20738243b57 Mon Sep 17 00:00:00 2001
+From: Xiaolin Ju <Ju.xl@ntu.edu.cn>
+Date: Fri, 30 Jun 2017 14:31:06 +0800
+Subject: [PATCH 3/4] bugfix @BugFix Branch
+
+---
+ bugfix.c | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 bugfix.c
+
+diff --git a/bugfix.c b/bugfix.c
+new file mode 100644
+index 0000000..3457671
+--- /dev/null
++++ b/bugfix.c
+@@ -0,0 +1,2 @@
++## bug fix.c
++
+-- 
+2.11.0 (Apple Git-81)
+
