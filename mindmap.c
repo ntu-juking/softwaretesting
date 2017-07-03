@@ -1,1 +1,0 @@
-## mind map .c
