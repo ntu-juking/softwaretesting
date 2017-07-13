@@ -1,13 +1,13 @@
-## Softwaretesting Agenda
+## 软件测试
 
-### Charper 1. Introduction
+### 一种基于 "理论 -- 方法 -- 技术 -- 工具" 循环迭代学习的过程
 
-#### 1. Definitions
+#### 1. 基础理论（构建中）
 
-#### 2. History (Stories)
+#### 2. 最新方法 (发展中)
 
-#### 3. Views
+#### 3. 测试技术（应用中）
 
-#### 4. Discussion
+#### 4. 测试工具（改进中）
 
 
