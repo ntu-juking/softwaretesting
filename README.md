@@ -7,14 +7,3 @@
 #### 3. 测试技术（改进）
 
 #### 4. 测试工具（应用）
-
-
-``` flow
-st=>start: 开始
-io1=>inputoutput: 输入
-io2=>inputoutput: 输出
-e=>end: 结束
-
-st->io1->io2->e
-      
-```
